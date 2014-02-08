@@ -3,6 +3,9 @@
 body {
     text-align: left;
     background: linear-gradient(#E2CDBD, #E2C6AF);
+    background-image: url('bg3.jpg');
+    background-position: fixed;
+    background-attachment: fixed;
     margin-left: 4%;
     margin-right: 4%;
 }
