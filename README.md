@@ -19,6 +19,13 @@ Pair programmed:
 Bronte Lee and Stephanie Gil  
 
 
+Citing  
+======  
+
+Background image used was taken from the following url:  
+URL: http://www.wallpaperinhd.net/file/3913/2880x1800/stretch/floral_wallpaper_60.jpg
+Date: Feb. 7, 2014  
+
 License/Copyright
 =================
 
