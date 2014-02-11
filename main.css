@@ -15,18 +15,15 @@ limitations under the License.Code is licensed under the Apache 2.0 license.
 
 */
 
-/* Resetting any original css */
+/* Resetting any padding or margin automatically added */
 * { 
-    margin: 0 0 0 0; 
-    padding: 0 0 0 0; 
+    margin: 0; 
+    padding: 0; 
 }
-
-DIV.book {margin: 0;}
-DIV.toc {margin: 0;}
 
 html {
     text-align: left;
-    background-image: url('bg1.jpg');
+    background-image: url('https://raw.github.com/sgil88/CMPUT404-assignment-css-hell/master/bg1.jpg');
     background-position: fixed;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -36,7 +33,6 @@ html {
     color: #3E3128;
 }
 
-
 body {
     background-color: rgba(255,255,255,.55); 
     padding-left: 2%;
@@ -45,12 +41,8 @@ body {
 
 img {
     width: 100%;
-    border: 5pt ridge #3E3128;
-}
-
-fig {
-    margin: 0 auto;
-    text-align: center;
+	max-width: 600px;
+	border: 6pt ridge #594639;
 }
 
 hr {
@@ -105,9 +97,12 @@ p.toc {
 }
 
 div.toc{
+	margin: 0;
     margin-bottom: 3%;
     width: 100%;
 }
+
+div.book {margin: 0;}
 
 a {
     display: block;
@@ -126,7 +121,7 @@ h3 a:hover {
     font-style: normal;
 }
 
-.toc:nth-child(1) {
+p.toc:nth-child(1) {
     color: #594639;
     font-size: 18pt;
     clear: both;
@@ -141,3 +136,22 @@ h3 a:hover {
     background-color: transparent;
 }
 
+/* image containers */
+.fig {
+    margin-right: auto;
+	margin-left: auto;
+    text-align: center;
+}
+
+.figleft   {
+	float: left; 
+	margin-left: 0%; 
+	margin-right: 1%;
+}
+
+.figright  {
+	float: right; 
+	margin-right: 0%; 
+	margin-left: 1%;
+}
+	
