@@ -18,6 +18,22 @@ Collaboration
 Pair programmed:  
 Bronte Lee and Stephanie Gil  
 
+Changes Made For Part 1  
+=======================  
+- added a fixed background image
+- changed font color and header color  
+- added borders to images  
+- changed padding + margin of paragraphs, headers, body  
+- changed text decoration for link so they don't look like normal blue links  
+  with the underlining, and when you hover over them, they change color.  
+- changed the formatting of table contents that were too  long  
+- centered the pres and the headers  
+- made the horizontal lines slightly transparent so they weren't so in your   
+ face, and we changed their width  
+- made the line-height of paragraphs larger (so 1.5 spacing), and changed   
+  the font size to be bigger and easier to read. 
+- got rid of terrible background of sections that linked to an alternative  
+  html version
 
 Citing  
 ======  
