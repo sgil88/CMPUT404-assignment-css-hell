@@ -23,7 +23,7 @@ limitations under the License.Code is licensed under the Apache 2.0 license.
 
 html {
     text-align: left;
-    background-image: url('https://raw.github.com/sgil88/CMPUT404-assignment-css-hell/master/bg1.jpg');
+    background-image: url('bg1.jpg');
     background-position: fixed;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -64,6 +64,7 @@ h1, h2, h3, h4, h5, h6 {
     clear: both;
     color: #594639;
     text-align: center;
+    font-size: 200%;
     margin-bottom: 2%;
     margin-top: 2%;
     padding-top: 2%;
