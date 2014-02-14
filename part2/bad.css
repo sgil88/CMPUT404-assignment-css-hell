@@ -22,7 +22,7 @@ article header {
 }
 
 body {
-	width: 80%;
+	width: 90%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 2%;
@@ -31,12 +31,12 @@ body {
 section {
 	margin-top: 2%;
 	margin-right: 2%;
-	width: 74%;
+	width: 70%;
 	float: left;
 }
 
 aside {
-	width: 16%;
+	width: 20%;
 	float: left;
 	text-align: center;
 	border-radius: 50px;
@@ -78,4 +78,18 @@ h1, h2, h3 {
 
 h1:hover, h2:hover, h3:hover {
     color: darkslateblue;
+}
+
+ul {
+    margin-left: 10%;
+    text-align: left;
+}
+
+li {
+    list-style-type: katakana;
+        
+}
+
+p {
+    margin-bottom: 2%;
 }

@@ -12,24 +12,23 @@ body {
 
 h1, h2, h3 {
     font-size: 22pt;
-    text-indent: 15pt;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
     letter-spacing: 1pt;
+    margin-left: 2%;
 }
 
 h2 {
-    font-size: 18pt;
+    font-size: 16pt;
 }
 
 h3 {
-    font-size: 16pt;
-    text-indent: 20pt;
+    font-size: 12pt;
     margin-bottom: 1%;
     font-style: italic;
 }
 
 p {
-    font-size: 14pt;
+    font-size: 12pt;
     text-indent: 7pt;
     font-family: Tahoma, Verdana, Segoe, sans-serif;
     margin-bottom: 2%;
@@ -98,7 +97,7 @@ ul {
 }
 
 li {
-    font-size: 14pt;
+    font-size: 12pt;
     font-style: italic;
     font-family: Tahoma, Verdana, Segoe, sans-serif;
     padding-bottom: 2%;
