@@ -34,12 +34,13 @@ Changes Made For Part 1
   the font size to be bigger and easier to read. 
 - got rid of terrible background of sections that linked to an alternative  
   html version
+- commented out original css in the head of the original html files   
 
 Citing  
 ======  
 
 Background image used was taken from the following url:  
-URL: http://www.wallpaperinhd.net/file/3913/2880x1800/stretch/floral_wallpaper_60.jpg
+URL: http://www.wallpaperinhd.net/file/3913/2880x1800/stretch/floral_wallpaper_60.jpg  
 Date: Feb. 7, 2014  
 
 License/Copyright
