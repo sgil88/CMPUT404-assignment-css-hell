@@ -64,7 +64,7 @@ p {
     letter-spacing: 3pt;
 }
 
-/* Main wrapper containing the section, no asides */
+/* Main wrapper containing the section and asides */
 .main_wrapper {
     height: 100%; 
     margin-left: auto;
