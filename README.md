@@ -55,7 +55,7 @@ This project was forked from the repository at the following link:
 
 CSS and HTML content falls under the following license:  
 
-Copyright 2014 Abram Hindle,Bronte Lee, Stephanie Gil  
+Copyright 2014 Bronte Lee, Stephanie Gil  
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
